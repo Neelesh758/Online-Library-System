@@ -1,0 +1,13 @@
+.cover{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url('https://www.shutterstock.com/image-photo/colorful-hardcover-books-flying-on-600nw-1618124554.jpg');
+    width: 100vw;
+    height: 40vh;
+}
+.cover h1{
+     font-weight: bolder;
+     color: rgb(2, 2, 27);
+}

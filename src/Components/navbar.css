@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.mainnav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 5px;
+    background-color: black;
+}
+.img img{
+    width: 40px;
+justify-content: space-evenly;
+}
+.navlist{
+    display: flex;
+    gap: 40px;
+}
+.navlist li{
+    color: white;
+    list-style: none;
+    cursor: pointer;
+}
